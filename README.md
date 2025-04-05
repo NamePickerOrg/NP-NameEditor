@@ -1,5 +1,10 @@
 # NP-NameEditor
 
+> [!caution]
+>
+> 由于名单文件可以直接使用Office/WPS编辑，NamePicker内置名单编辑也在火热开发，该仓库的历史使命早已完成
+>
+
 一个可视化的名单编辑器，配合[NamePicker](https://github.com/NamePickerOrg/NamePicker)使用
 
 ## 使用指南
